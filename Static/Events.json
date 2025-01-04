@@ -1,0 +1,106 @@
+[
+   {
+      "ID":148,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 0
+   },
+   {
+      "ID":107,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 2
+   },
+   {
+      "ID":500,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier":0
+   },
+   {
+      "ID":501,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier":0
+   },
+   {
+      "ID":108,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 2
+   },
+   {
+      "ID":293,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 0
+   },
+   {
+      "ID":39,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 0
+   },
+   {
+      "ID":479,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 0
+   },
+   {
+      "ID":0 ,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 0
+   },
+   {
+      "ID":525,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 0
+   },
+   {
+      "ID":221,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 0
+   },
+   {
+      "ID":25,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 0
+   },
+   {
+      "ID":49,
+      "Status":0,
+      "CountdownTimer": 0,
+      "Timer": 99999,
+      "TokensReward": 0,
+      "Modifier": 0
+   }
+]

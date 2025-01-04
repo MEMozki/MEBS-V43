@@ -1,0 +1,80 @@
+[
+   {
+      "MissionType": 1,
+      "AchievedGoal": 0,
+      "QuestGoal": 8,
+      "RewardType": 28,
+      "Extra": 200,
+      "CurrentLevel": 0,
+      "MaxLevel": 0,
+      "Timer": 99999,
+      "State": 2,
+      "BrawlerID": 54,
+      "GameMode": -1
+   },
+   {
+      "MissionType": 1,
+      "AchievedGoal": 0,
+      "QuestGoal": 1,
+      "RewardType": 28,
+      "Extra": 100,
+      "CurrentLevel": 0,
+      "MaxLevel": 5,
+      "Timer": 99999,
+      "State": 2,
+      "BrawlerID": -1,
+      "GameMode": 7
+   },
+   {
+      "MissionType": 5,
+      "AchievedGoal": 0,
+      "QuestGoal": 10,
+      "RewardType": 28,
+      "Extra": 200,
+      "CurrentLevel": 0,
+      "MaxLevel": 0,
+      "Timer": 99999,
+      "State": 2,
+      "BrawlerID": -1,
+      "GameMode": -1
+   },
+   {
+      "MissionType": 6,
+      "AchievedGoal": 0,
+      "QuestGoal": 5,
+      "RewardType": 28,
+      "Extra": 200,
+      "CurrentLevel": 0,
+      "MaxLevel": 0,
+      "Timer": 99999,
+      "State": 2,
+      "BrawlerID": -1,
+      "GameMode": -1
+   },
+   {
+      "MissionType": 1,
+      "AchievedGoal": 0,
+      "QuestGoal": 3,
+      "RewardType": 28,
+      "Extra": 200,
+      "CurrentLevel": 0,
+      "MaxLevel": 0,
+      "Timer": 79200,
+      "State": 2,
+      "BrawlerID": -1,
+      "GameMode": 2
+   },
+   {
+      "MissionType": 1,
+      "AchievedGoal": 0,
+      "QuestGoal": 3,
+      "RewardType": 28,
+      "Extra": 200,
+      "CurrentLevel": 0,
+      "MaxLevel": 0,
+      "Timer": 79200,
+      "State": 2,
+      "BrawlerID": 46,
+      "GameMode": -1
+   }
+]
