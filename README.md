@@ -24,7 +24,7 @@ In a terminal, type __`python lib.py`__ then __`python Core.py`__
 
 ### Configuring the client app
 To connect to your server, a **patched client** is required. 
-Download this [base APK]() and change the IP in `libcb.config.so`, if you want to use Classic Brawl locally on your device, you can use "127.0.0.1" as the IP. If not, then you can use your device's IPv4 address. 
+Download this [base APK](https://mega.nz/file/RCcQgLhC#pAYethGveBwGtWzYio6pyux-KQq2QInQg-SYn_ZRhpw) and change the IP in `libprojectbsds.config.so`, if you want to use Classic Brawl locally on your device, you can use "127.0.0.1" as the IP. If not, then you can use your device's IPv4 address. 
 
 #### The APK was recently updated to support Android 12+ and Emulators.
 
