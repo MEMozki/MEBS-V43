@@ -1,0 +1,1 @@
+import os; from Configuration import server, settings; from Classes.ServerConnection import ServerConnection; from Static.StaticData import StaticData; os.makedirs(f"HexDumpV{settings['DumpMajor']}", exist_ok=True); StaticData.Preload(); ServerConnection((server["ip"], server["port"]))
