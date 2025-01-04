@@ -1,4 +1,4 @@
-# MEBS
+# MEBS+ 43.231.1
 
 Sevrer Brawl Stars for v43.231.1 in Python
 
