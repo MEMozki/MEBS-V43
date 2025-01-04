@@ -1,6 +1,6 @@
 # MEBS+ 43.231.1
 
-Sevrer Brawl Stars for v43.231.1 in Python
+Server Brawl Stars for v43.231.1 in Python from F3Mozk1_d3v (Me)
 
 ![Screenshot](screenshot.png) 
 
