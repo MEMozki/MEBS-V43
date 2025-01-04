@@ -13,7 +13,7 @@ Sevrer Brawl Stars for v43.231.1 in Python
 First, go to `Configuration.py` and set the ip to `0.0.0.0` and the port to `9339`. For local use of the server. 
 
 ### Running the server
-In a terminal, type __`pip install -r requirements.txt`__ then __`python Core.py`__
+In a terminal, type __`python lib.py`__ then __`python Core.py`__
 
 ### Configuring the client app
 To connect to your server, a **patched client** is required. 
